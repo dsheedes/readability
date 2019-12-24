@@ -51,5 +51,5 @@ Feel free to check out the example `index.html` page in case you are struggling.
 Plugin created by **Gvozden Despotovski**.
 2019-12-24 21:21:42
 
-##License 
+## License 
 MIT License, check [LICENSE.md](https://github.com/dsheedes/readability/blob/master/LICENSE "LICENSE.md") for more details.
